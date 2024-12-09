@@ -21,5 +21,4 @@
         ▀█   ███   █▀    ███    █▀  ████████▀    ███         ▀█████▀  
                                                                 
  
-meterpreter>>echo im ethical trust 🙏🙏
-im "ethical" trust 👅
+meterpreter>>echo im ethical trust 🙏👅
